@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "3. Can I get Ebola from contaminated food or water?", 
+  "language": "eng_UK", 
+  "title": "3. Can I get Ebola from contaminated food or water?", 
+  "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+  "created_at": "2014-11-07T13:10:18.246158+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-11-07T13:10:18.246582+00:00", 
+  "_version": {
+    "package_version": "0.2.6", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "No. Ebola cannot be spread by consuming food or water. However, when you share utensils with an infected person, you can get sick.", 
+  "source": null, 
+  "featured": false, 
+  "published": null, 
+  "position": 0, 
+  "slug": "3-can-i-get-ebola-contaminated-food-or-water", 
+  "uuid": "77d4374fe87e448da5cfc9d34f17cb61"
+}
