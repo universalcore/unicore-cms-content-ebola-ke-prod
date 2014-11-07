@@ -6,12 +6,12 @@
   "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
   "created_at": "2014-11-07T12:49:53+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-11-07T13:07:23.549687+00:00", 
+  "modified_at": "2014-11-07T13:24:41.363840+00:00", 
   "_version": {
     "package_version": "0.2.6", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": null, 
-  "position": 2, 
+  "position": 8, 
   "slug": "8-what-being-done-prevent-ill-passengers-west-africa-getting-plane", 
   "uuid": "462c75f0723c495c882db0fbb7101a8c"
 }
