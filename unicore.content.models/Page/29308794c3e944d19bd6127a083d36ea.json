@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "11. How can Ebola be prevented?", 
+  "language": "eng_UK", 
+  "title": "11. How can Ebola be prevented?", 
+  "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+  "created_at": "2014-11-07T12:44:53.291539+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-11-07T12:44:53.291725+00:00", 
+  "_version": {
+    "package_version": "0.2.6", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": " - Avoid contact with body fluids from any person suspected to be suffering from Ebola.\r\n - Persons who have died of Ebola must be buried immediately by trained people.\r\n - Do not handle the body of a person who has died of Ebola.\r\n - In case you accidently come in contact with a person suspected to have Ebola, wash your hands\r\nthoroughly with soap and water.\r\n - Use gloves when handling Ebola suspected or confirmed cases.", 
+  "source": null, 
+  "featured": false, 
+  "published": null, 
+  "position": 0, 
+  "slug": "11-how-can-ebola-be-prevented", 
+  "uuid": "29308794c3e944d19bd6127a083d36ea"
+}
