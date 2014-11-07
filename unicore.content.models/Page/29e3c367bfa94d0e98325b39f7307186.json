@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "6. Are there any reported cases of Ebola in Kenya?", 
+  "language": "eng_UK", 
+  "title": "6. Are there any reported cases of Ebola in Kenya?", 
+  "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+  "created_at": "2014-11-07T12:51:52.116073+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-11-07T12:51:52.116248+00:00", 
+  "_version": {
+    "package_version": "0.2.6", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "No. Kenya so far has not reported any case of Ebola.", 
+  "source": null, 
+  "featured": false, 
+  "published": null, 
+  "position": 0, 
+  "slug": "6-are-there-any-reported-cases-ebola-kenya", 
+  "uuid": "29e3c367bfa94d0e98325b39f7307186"
+}
