@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "7. Why are we concerned about Ebola now?", 
+  "language": "eng_UK", 
+  "title": "7. Why are we concerned about Ebola now?", 
+  "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+  "created_at": "2014-11-07T12:51:00.878648+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-11-07T12:51:00.878845+00:00", 
+  "_version": {
+    "package_version": "0.2.6", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "From March 2014, some countries in West Africa; Guinea, Liberia and Sierra Leon have been reporting Ebola outbreak. Recently Nigeria has reported cases as a result of human movement and interaction within the affected countries. Kenya is among countries at risk because of its geographical location, frequent human movements and interactions which occurs through many flights to and from West Africa which may facilitate movement of people who may include those with ebola disease. Movement of people also takes place through use of road or sea, this also can facilitate Ebola transmission into the country.", 
+  "source": null, 
+  "featured": false, 
+  "published": null, 
+  "position": 0, 
+  "slug": "7-why-are-we-concerned-about-ebola-now", 
+  "uuid": "30246a0146684a5fa5a4ae3b6e062da2"
+}
