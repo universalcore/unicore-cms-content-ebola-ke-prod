@@ -4,14 +4,14 @@
   "language": "eng_GB", 
   "title": "What about health workers? How should they protect  themselves while caring for patients?", 
   "primary_category": "d5c86ac541bb4b11940949cc22a84b72", 
-  "created_at": "2015-12-14T10:38:14.950164+00:00", 
+  "created_at": "2015-12-14T10:38:14+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-14T10:38:14.950396+00:00", 
+  "modified_at": "2015-12-14T11:14:38.360300+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "406fa7dc46e840d893916b9c47718932", 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "what-about-health-workers-how-should-they-protect-themselves-while-caring-patients", 
   "uuid": "6be713be0cfe462d881260ee06a55193"
