@@ -1,5 +1,5 @@
 {
-  "subtitle": "", 
+  "subtitle": "Only about a quarter of those infected with cholera show severe symptoms of cholera, three times as many people can be spreading the disease as the number of reported cases. Find out more!", 
   "uuid": "64f06f7122444023986193030c5a59f9", 
   "language": "eng_GB", 
   "title": "Cholera", 
@@ -7,8 +7,8 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "cholera", 
