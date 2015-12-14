@@ -6,12 +6,12 @@
   "primary_category": "d5c86ac541bb4b11940949cc22a84b72", 
   "created_at": "2015-12-14T10:37:10+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-14T11:13:46.321375+00:00", 
+  "modified_at": "2015-12-14T11:19:55.575965+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "769fce71cef947e38bb4ecc097790ca3", 
   "published": null, 
-  "position": 5, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "what-can-i-do-can-it-be-prevented-there-vaccine", 
   "uuid": "e8d3096596924c2b987f36e17585696d"
