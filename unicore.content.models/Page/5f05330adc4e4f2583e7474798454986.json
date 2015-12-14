@@ -4,14 +4,14 @@
   "language": "eng_GB", 
   "title": "What about rumours that some foods can prevent or  treat the infection?", 
   "primary_category": "d5c86ac541bb4b11940949cc22a84b72", 
-  "created_at": "2015-12-14T10:39:17.684615+00:00", 
+  "created_at": "2015-12-14T10:39:17+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-14T10:39:17.684826+00:00", 
+  "modified_at": "2015-12-14T11:15:09.393029+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "b30a3557e50543fa86e3179dd35d8aeb", 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "what-about-rumours-some-foods-can-prevent-or-treat-infection", 
   "uuid": "5f05330adc4e4f2583e7474798454986"
