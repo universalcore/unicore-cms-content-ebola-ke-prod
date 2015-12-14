@@ -6,12 +6,12 @@
   "primary_category": "d5c86ac541bb4b11940949cc22a84b72", 
   "created_at": "2015-12-14T10:45:22+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-14T11:17:09.467475+00:00", 
+  "modified_at": "2015-12-14T11:19:55.282297+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "2bf5aca1e9334c6287291929d3f0e943", 
   "published": null, 
-  "position": 0, 
+  "position": 11, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "is-it-safe-travel-during-outbreak-what-whos-travel-advice", 
   "uuid": "a3bd9c5d3b414dd9ac637807d39ec045"
