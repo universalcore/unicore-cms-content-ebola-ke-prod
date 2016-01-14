@@ -10,13 +10,11 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [
-    "efd999254924462c9e71d55e9ca3db12"
-  ], 
+  "linked_pages": [], 
   "id": null, 
   "content": "If a person has been in an area known to have Ebola virus disease or in contact with a person known or suspected to have Ebola and they begin to have symptoms, they should seek medical care immediately.\r\n\r\nAny cases of persons who are suspected to have the disease should be reported to the nearest health unit without delay. Prompt medical care is essential to improving the rate of survival from the disease. It is also important to control spread of the disease and infection control procedures need to be started immediately.\r\n\r\nNext article:", 
   "source": null, 
