@@ -10,13 +10,11 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [
-    "4fee0ba91ccf48128d6995d64585ab78"
-  ], 
+  "linked_pages": [], 
   "id": null, 
   "content": "WHO provides technical advice to countries and communities to prepare for and respond to Ebola outbreaks.\r\n\r\nWHO actions include:\r\n\r\n - disease surveillance and information-sharing across regions to watch\r\n   for outbreaks;\r\n - technical assistance to investigate and contain health threats when\r\n   they occur \u2013 such as on-site help to identify sick people and track\r\n   disease patterns;\r\n - advice on prevention and treatment options;\r\n - deployments of experts and the distribution of health supplies (such\r\n   as personal protection gear for health workers) when they are\r\n   requested by the country;\r\n - communications to raise awareness of the nature of the disease and\r\n   protective health measures to control transmission of the virus;\r\n - activation of regional and global networks of experts to provide\r\n   assistance, if requested, and mitigate potential international health\r\n   effects and disruptions of travel and trade.\r\n\r\nNext article:", 
   "source": null, 
