@@ -6,12 +6,12 @@
   "primary_category": "b0c5d9b0daf44b6e987cea62125f7ec9", 
   "created_at": "2015-09-14T11:46:48+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-10-13T18:44:33.749370+00:00", 
+  "modified_at": "2016-10-13T18:49:16.228069+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 17:58:13) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,7 +19,7 @@
   ], 
   "id": null, 
   "content": "Taarifa hii Ebola itajibu maswali yaulizwayo mara kwa mara kuhusu Ebola. Taarifa hizi zinaletwa kwenu kwa ushirikiano wa Shirika la Afya Duniani (WHO) na  Shirika la Kuhudumia Watoto katika Umoja wa Mataifa.\r\n\r\nMakala Inayofuata\r\n\r\n", 
-  "source": null, 
+  "source": "d85cf44392e845e8b0c0a3ca8b19f6e9", 
   "featured": false, 
   "author_tags": [], 
   "image": "2f5787d4436241978db3ebd0188cae05", 
